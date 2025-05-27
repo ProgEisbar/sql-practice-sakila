@@ -5,6 +5,14 @@ Este proyecto forma parte de mi portfolio como **Data Analyst / Data Engineer en
 
 ---
 
+Sobre mí
+
+Soy estudiante de Ciencias de Datos con foco en Ingeniería y Análisis de Datos. Este proyecto es parte de mi portfolio técnico para mostrar mis habilidades en el uso de SQL aplicado a datos reales.
+
+Conectá conmigo en [LinkedIn](https://www.linkedin.com/in/salasj/)
+
+---
+
 Objetivos del proyecto
 
 - Practicar SQL desde nivel básico hasta avanzado.
@@ -21,8 +29,6 @@ La base de datos [Sakila](https://dev.mysql.com/doc/sakila/en/) representa el ne
 - Esquema relacional realista y buena cantidad de registros.
 
 **Nota**: Sakila puede instalarse fácilmente en MySQL o importarse en entornos como DBeaver, DB Fiddle, etc.
-
----
 
 ---
 
@@ -54,14 +60,6 @@ Consultas destacadas
 2. Descargar e importar la base de datos Sakila desde:
    [https://dev.mysql.com/doc/sakila/en/](https://dev.mysql.com/doc/sakila/en/)
 3. Abrir el archivo `sakila_queries_completo.sql` y ejecutar secciones según tu interés.
-
----
-
-Sobre mí
-
-Soy estudiante de Ciencias de Datos con foco en Ingeniería y Análisis de Datos. Este proyecto es parte de mi portfolio técnico para mostrar mis habilidades en el uso de SQL aplicado a datos reales.
-
-Conectá conmigo en [LinkedIn](https://www.linkedin.com/in/salasj/)
 
 ---
 
